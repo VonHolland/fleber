@@ -1,0 +1,3 @@
+Aqui tem um texto
+
+Estou alterando este arquivo
